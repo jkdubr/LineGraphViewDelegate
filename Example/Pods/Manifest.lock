@@ -1,0 +1,20 @@
+PODS:
+  - Expecta (0.3.1)
+  - LineGraphViewDelegate (0.9.0)
+  - Specta (0.2.1)
+
+DEPENDENCIES:
+  - Expecta
+  - LineGraphViewDelegate (from `../`)
+  - Specta (~> 0.2.1)
+
+EXTERNAL SOURCES:
+  LineGraphViewDelegate:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Expecta: 03aabd0a89d8dea843baecb19a7fd7466a69a31d
+  LineGraphViewDelegate: 212d888624c71c6105afdf95311a90dbc4c602e5
+  Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
+
+COCOAPODS: 0.33.1

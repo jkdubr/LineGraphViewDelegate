@@ -1,0 +1,10 @@
+target 'LineGraphViewDelegate', :exclusive => true do
+  pod "LineGraphViewDelegate", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "LineGraphViewDelegate", :path => "../"
+
+  pod 'Specta', '~> 0.2.1'
+  pod 'Expecta'
+end
