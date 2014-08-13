@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/cocoapods/l/LineGraphViewDelegate.svg?style=flat)](http://cocoadocs.org/docsets/LineGraphViewDelegate)
 [![Platform](https://img.shields.io/cocoapods/p/LineGraphViewDelegate.svg?style=flat)](http://cocoadocs.org/docsets/LineGraphViewDelegate)
 
+LineGraphViewDelegate is simple view for Line Graph with delegates method for user interaction
+
+![alt screen](http://mostar.cz/jakubdubrovsky/media/cyclomaps.png)
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
